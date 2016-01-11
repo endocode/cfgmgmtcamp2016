@@ -1,0 +1,12 @@
+slides.pdf
+slides.html
+
+# tex generation
+slides.aux
+slides.log
+slides.nav
+slides.out
+slides.snm
+slides.tex
+slides.toc
+
