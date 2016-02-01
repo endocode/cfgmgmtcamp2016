@@ -2,8 +2,8 @@
 
 ## What is going to happen in this talk?
 
-* Raspberry Pi cluster from Endocode's Matthias Schmitz
 * Basics about Kubernetes
+* Raspberry Pi cluster from Endocode's Matthias Schmitz
 * Differences to current common scenario
 * Real life scenario from our customer
 
@@ -12,6 +12,18 @@
 Manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops. [kubernetes.io]
 
 ## What does it look like?
+
+![Key concepts](./kubernetes-key-concepts.png)
+
+---
+
+![Kubernetes architecture master](./kubernetes-architecture-1024x793-master.png)
+
+---
+
+![Kubernetes architecture worker](./kubernetes-architecture-1024x793-worker.png)
+
+---
 
 ![Raspberry Pi cluster](./raspi_dark_bg.png)
 
