@@ -45,7 +45,7 @@ k8s-master-192.168.123.101   4/4       Running   8          3d
     * Runs this container image on a computer using a (Docker) runtime
 * Isn't this just VMs?
 
-## Hyervisor vs Docker: The view
+## Hypervisor vs Docker: The view
 
 ![Hypervisor vs container](./hypervisor-container.png)
 
